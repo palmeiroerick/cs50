@@ -82,3 +82,4 @@
 
 - Problem Set
   - [Indoor Voice](./cs50p/week%2000/indoor/indoor.py)
+  - [Playback Speed](./cs50p/Week%2000/playback/playback.py)
