@@ -85,3 +85,4 @@
   - [Playback Speed](./cs50p/Week%2000/playback/playback.py)
   - [Making Faces](./cs50p/Week%2000/faces/faces.py)
   - [Einstein](./cs50p/Week%2000/einstein/einstein.py)
+  - [Tip Calculator](./cs50p/Week%2000/tip/tip.py)
