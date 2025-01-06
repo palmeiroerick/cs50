@@ -10,6 +10,7 @@
   - [Week 5 - Data Structure](#week-5---data-structures)
 - [CS50’s Introduction to Programming with Python 2022](#cs50s-introduction-to-programming-with-python-2022)
   - [Week 0 - Functions, Variables](#week-0---functions-variables)
+  - [Week 1 - Conditionals](#week-1---conditionals)
 
 ## CS50’s Introduction to Computer Science 2024/2025
 
@@ -81,8 +82,13 @@
 ### Week 0 - Functions, Variables
 
 - Problem Set
-  - [Indoor Voice](./cs50p/week%2000/indoor/indoor.py)
+  - [Indoor Voice](./cs50p/Week%2000/indoor/indoor.py)
   - [Playback Speed](./cs50p/Week%2000/playback/playback.py)
   - [Making Faces](./cs50p/Week%2000/faces/faces.py)
   - [Einstein](./cs50p/Week%2000/einstein/einstein.py)
   - [Tip Calculator](./cs50p/Week%2000/tip/tip.py)
+
+### Week 1 - Conditionals
+
+- Problem Set
+  - [Deep Thought](/cs50p/Week%2001/deep/deep.py)
