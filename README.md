@@ -92,3 +92,4 @@
 
 - Problem Set
   - [Deep Thought](/cs50p/Week%2001/deep/deep.py)
+  - [Home Federal Savings Bank](/cs50p/Week%2001/bank/bank.py)
