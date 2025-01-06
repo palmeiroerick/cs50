@@ -95,3 +95,4 @@
   - [Home Federal Savings Bank](/cs50p/Week%2001/bank/bank.py)
   - [File Extensions](/cs50p/Week%2001/extensions/extensions.py)
   - [Math Interpreter](/cs50p/Week%2001/interpreter/interpreter.py)
+  - [Meal Time](/cs50p/Week%2001/meal/meal.py)
