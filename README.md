@@ -103,3 +103,4 @@
 - Problem Set
   - [camelCase](/cs50p/Week%2002/camel/camel.py)
   - [Coke Machine](/cs50p/Week%2002/coke/coke.py)
+  - [Just setting up my twttr](/cs50p/Week%2002/twttr/twttr.py)
