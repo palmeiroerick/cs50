@@ -11,6 +11,7 @@
 - [CS50’s Introduction to Programming with Python 2022](#cs50s-introduction-to-programming-with-python-2022)
   - [Week 0 - Functions, Variables](#week-0---functions-variables)
   - [Week 1 - Conditionals](#week-1---conditionals)
+  - [Week 2 - Loops](#week-2---loops)
 
 ## CS50’s Introduction to Computer Science 2024/2025
 
@@ -96,3 +97,8 @@
   - [File Extensions](/cs50p/Week%2001/extensions/extensions.py)
   - [Math Interpreter](/cs50p/Week%2001/interpreter/interpreter.py)
   - [Meal Time](/cs50p/Week%2001/meal/meal.py)
+
+### Week 2 - Loops
+
+- Problem Set
+  - [camelCase](/cs50p/Week%2002/camel/camel.py)
