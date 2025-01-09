@@ -102,3 +102,4 @@
 
 - Problem Set
   - [camelCase](/cs50p/Week%2002/camel/camel.py)
+  - [Coke Machine](/cs50p/Week%2002/coke/coke.py)
