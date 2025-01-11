@@ -111,3 +111,4 @@
 ### Week 3 - Exceptions
 
 - [Fuel Gauge](/cs50p/Week%2003/fuel/fuel.py)
+- [Felipe’s Taqueria](/cs50p/Week%2003/taqueria/taqueria.py)
