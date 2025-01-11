@@ -110,6 +110,8 @@
 
 ### Week 3 - Exceptions
 
-- [Fuel Gauge](/cs50p/Week%2003/fuel/fuel.py)
-- [Felipe’s Taqueria](/cs50p/Week%2003/taqueria/taqueria.py)
-- [Grocery List](/cs50p/Week%2003/grocery/grocery.py)
+- Problem Set
+  - [Fuel Gauge](/cs50p/Week%2003/fuel/fuel.py)
+  - [Felipe’s Taqueria](/cs50p/Week%2003/taqueria/taqueria.py)
+  - [Grocery List](/cs50p/Week%2003/grocery/grocery.py)
+  - [Outdated](/cs50p/Week%2003/outdated/outdated.py)
