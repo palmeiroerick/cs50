@@ -12,6 +12,7 @@
   - [Week 0 - Functions, Variables](#week-0---functions-variables)
   - [Week 1 - Conditionals](#week-1---conditionals)
   - [Week 2 - Loops](#week-2---loops)
+  - [Week 3 - Exceptions](#week-3---exceptions)
 
 ## CS50’s Introduction to Computer Science 2024/2025
 
@@ -106,3 +107,7 @@
   - [Just setting up my twttr](/cs50p/Week%2002/twttr/twttr.py)
   - [Vanity Plates](/cs50p/Week%2002/plates/plates.py)
   - [Nutrition Facts](/cs50p/Week%2002/nutrition/nutrition.py)
+
+### Week 3 - Exceptions
+
+- [Fuel Gauge](/cs50p/Week%2003/fuel/fuel.py)
