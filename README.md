@@ -13,6 +13,7 @@
   - [Week 1 - Conditionals](#week-1---conditionals)
   - [Week 2 - Loops](#week-2---loops)
   - [Week 3 - Exceptions](#week-3---exceptions)
+  - [Week 4 - Libraries](#week-4---libraries)
 
 ## CS50’s Introduction to Computer Science 2024/2025
 
@@ -115,3 +116,8 @@
   - [Felipe’s Taqueria](/cs50p/Week%2003/taqueria/taqueria.py)
   - [Grocery List](/cs50p/Week%2003/grocery/grocery.py)
   - [Outdated](/cs50p/Week%2003/outdated/outdated.py)
+
+### Week 4 - Libraries
+
+- Problem Set
+  - [Emojize](/cs50p/Week%2004/emojize/emojize.py)
