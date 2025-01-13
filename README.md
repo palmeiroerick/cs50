@@ -124,3 +124,4 @@
   - [Frank, Ian and Glen’s Letters](/cs50p/Week%2004/figlet/figlet.py)
   - [Adieu, Adieu](/cs50p/Week%2004/adieu/adieu.py)
   - [Guessing Game](/cs50p/Week%2004/game/game.py)
+  - [Little Professor](/cs50p/Week%2004/professor/professor.py)
