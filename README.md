@@ -121,3 +121,4 @@
 
 - Problem Set
   - [Emojize](/cs50p/Week%2004/emojize/emojize.py)
+  - [Frank, Ian and Glen’s Letters](/cs50p/Week%2004/figlet/figlet.py)
