@@ -134,3 +134,4 @@
   - [Testing my twttr](/cs50p/Week%2005/test_twttr/test_twttr.py)
   - [Back to the Bank](/cs50p/Week%2005/test_bank/test_bank.py)
   - [Re-requesting a Vanity Plate](/cs50p/Week%2005/test_plates/test_plates.py)
+  - [Refueling](/cs50p/Week%2005/test_fuel/test_fuel.py)
