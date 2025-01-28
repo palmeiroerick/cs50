@@ -14,6 +14,7 @@
   - [Week 2 - Loops](#week-2---loops)
   - [Week 3 - Exceptions](#week-3---exceptions)
   - [Week 4 - Libraries](#week-4---libraries)
+  - [Week 5 - Unit Tests](#week-5---unit-tests)
 
 ## CS50’s Introduction to Computer Science 2024/2025
 
@@ -126,3 +127,8 @@
   - [Guessing Game](/cs50p/Week%2004/game/game.py)
   - [Little Professor](/cs50p/Week%2004/professor/professor.py)
   - [Bitcoin Price Index](/cs50p/Week%2004/bitcoin/bitcoin.py)
+
+### Week 5 - Unit Tests
+
+- Problem Set
+  - [Testing my twttr](/cs50p/Week%2005/test_twttr/test_twttr.py)
