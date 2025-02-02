@@ -143,3 +143,4 @@
   - [Lines of Code](/cs50p/Week%2006/lines/lines.py)
   - [Pizza Py](/cs50p/Week%2006/pizza/pizza.py)
   - [Scourgify](/cs50p/Week%2006/scourgify/scourgify.py)
+  - [CS50 P-Shirt](/cs50p/Week%2006/shirt/shirt.py)
