@@ -15,6 +15,7 @@
   - [Week 3 - Exceptions](#week-3---exceptions)
   - [Week 4 - Libraries](#week-4---libraries)
   - [Week 5 - Unit Tests](#week-5---unit-tests)
+  - [Week 6 - File I/O](#week-6---file-io)
 
 ## CS50’s Introduction to Computer Science 2024/2025
 
@@ -135,3 +136,8 @@
   - [Back to the Bank](/cs50p/Week%2005/test_bank/test_bank.py)
   - [Re-requesting a Vanity Plate](/cs50p/Week%2005/test_plates/test_plates.py)
   - [Refueling](/cs50p/Week%2005/test_fuel/test_fuel.py)
+
+### Week 6 - File I/O
+
+- Problem Set
+  - [Lines of Code](/cs50p/Week%2006/lines/lines.py)
