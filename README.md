@@ -151,3 +151,4 @@
 - Problem Set
   - [NUMB3RS](/cs50p/Week%2007/numb3rs/numb3rs.py)
   - [Watch on YouTube](/cs50p/Week%2007/watch/watch.py)
+  - [Working 9 to 5](/cs50p/Week%2007/working/working.py)
