@@ -16,7 +16,8 @@
   - [Week 4 - Libraries](#week-4---libraries)
   - [Week 5 - Unit Tests](#week-5---unit-tests)
   - [Week 6 - File I/O](#week-6---file-io)
-
+  - [Week 7 - Regular Expressions](#week-7---regular-expressions)
+  
 ## CS50’s Introduction to Computer Science 2024/2025
 
 - <https://cs50.harvard.edu/x/2024>
@@ -144,3 +145,8 @@
   - [Pizza Py](/cs50p/Week%2006/pizza/pizza.py)
   - [Scourgify](/cs50p/Week%2006/scourgify/scourgify.py)
   - [CS50 P-Shirt](/cs50p/Week%2006/shirt/shirt.py)
+
+### Week 7 - Regular Expressions
+
+- Problem Set
+  - [NUMB3RS](/cs50p/Week%2007/numb3rs/numb3rs.py)
