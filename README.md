@@ -161,3 +161,4 @@
 - Problem Set
   - [Seasons of Love](/cs50p/Week%2008/seasons/seasons.py)
   - [Cookie Jar](/cs50p/Week%2008/jar/jar.py)
+  - [CS50 Shirtificate](/cs50p/Week%2008/shirtificate/shirtificate.py)
