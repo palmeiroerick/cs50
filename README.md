@@ -17,6 +17,7 @@
   - [Week 5 - Unit Tests](#week-5---unit-tests)
   - [Week 6 - File I/O](#week-6---file-io)
   - [Week 7 - Regular Expressions](#week-7---regular-expressions)
+  - [Week 8 - Object-Oriented Programming](#week-8---object-oriented-programming)
   
 ## CS50’s Introduction to Computer Science 2024/2025
 
@@ -154,3 +155,8 @@
   - [Working 9 to 5](/cs50p/Week%2007/working/working.py)
   - [Regular, um, Expressions](/cs50p/Week%2007/um/um.py)
   - [Response Validation](/cs50p/Week%2007/response/response.py)
+
+### Week 8 - Object-Oriented Programming
+
+- Problem Set
+  - [Seasons of Love](/cs50p/Week%2008/seasons/seasons.py)
