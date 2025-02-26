@@ -95,6 +95,7 @@
   - [DNA](./cs50x/Week%2006/dna/dna.py)
 - Additional Practice
   - [Bank](./cs50x/Week%2006/bank/bank.py)
+  - [Fliglet](./cs50x/Week%2006/figlet/figlet.py)
 
 ## CS50’s Introduction to Programming with Python 2022
 
