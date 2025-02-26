@@ -89,6 +89,7 @@
   - [Hello](./cs50x/Week%2006/hello/hello.py)
   - [Mario Less](./cs50x/Week%2006/mario/less/mario.py)
   - [Mario More](./cs50x/Week%2006/mario/more/mario.py)
+  - [Cash](./cs50x/Week%2006/cash/cash.py)
 
 ## CS50’s Introduction to Programming with Python 2022
 
