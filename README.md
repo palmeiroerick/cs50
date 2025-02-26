@@ -8,6 +8,7 @@
   - [Week 3 - Algorithms](#week-3---algorithms)
   - [Week 4 - Memory](#week-4---memory)
   - [Week 5 - Data Structure](#week-5---data-structures)
+  - [Week 6 - Python](#week-6---python)
 - [CS50’s Introduction to Programming with Python 2022](#cs50s-introduction-to-programming-with-python-2022)
   - [Week 0 - Functions, Variables](#week-0---functions-variables)
   - [Week 1 - Conditionals](#week-1---conditionals)
@@ -81,6 +82,11 @@
   - [Speller](./cs50x/Week%2005/speller/dictionary.c)
 - Additional Practice
   - [Trie](./cs50x/Week%2005/trie/trie.c)
+
+### Week 6 - Python
+
+- Problem Set
+  - [Hello](./cs50x/Week%2006/hello/hello.py)
 
 ## CS50’s Introduction to Programming with Python 2022
 
