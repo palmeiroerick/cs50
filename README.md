@@ -93,6 +93,8 @@
   - [Credit](./cs50x/Week%2006/credit/credit.py)
   - [Readability](./cs50x/Week%2006/readability/readability.py)
   - [DNA](./cs50x/Week%2006/dna/dna.py)
+- Additional Practice
+  - [Bank](./cs50x/Week%2006/bank/bank.py)
 
 ## CS50’s Introduction to Programming with Python 2022
 
