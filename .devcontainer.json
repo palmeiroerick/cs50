@@ -1,0 +1,20 @@
+{
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.autopep8",
+                "ms-python.python",
+                "ms-vscode.cpptools",
+                "ms-azuretools.vscode-docker"
+            ]
+        }
+    },
+    "mounts": [
+        "source=${env:HOME}/.ssh,target=/home/ubuntu/.ssh,type=bind",
+        "source=${env:HOME}/.config/git/config,target=/home/ubuntu/.config/git/config,type=bind"
+    ],
+    "remoteUser": "ubuntu"
+}
