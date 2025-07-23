@@ -19,6 +19,7 @@
   - [Week 6 - File I/O](#week-6---file-io)
   - [Week 7 - Regular Expressions](#week-7---regular-expressions)
   - [Week 8 - Object-Oriented Programming](#week-8---object-oriented-programming)
+  - [Week 9 - Et Cetera](#week-9---et-cetera)
   
 ## CS50’s Introduction to Computer Science 2024/2025
 
@@ -180,3 +181,7 @@
   - [Seasons of Love](/cs50p/Week%2008/seasons/seasons.py)
   - [Cookie Jar](/cs50p/Week%2008/jar/jar.py)
   - [CS50 Shirtificate](/cs50p/Week%2008/shirtificate/shirtificate.py)
+
+### Week 9 - Et Cetera
+
+- [Final Project](/cs50p/Week%2009/project/)
