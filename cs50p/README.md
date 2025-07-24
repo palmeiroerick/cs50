@@ -2,6 +2,8 @@
 
 - <https://cs50.harvard.edu/python>
 
+<img width="2112" height="1632" alt="image" src="https://github.com/user-attachments/assets/6598ddcb-f6e9-4cd6-b96d-cfdbac8f9a2e" />
+
 ## Table of contents
 
 ### Week 0 - Functions, Variables
