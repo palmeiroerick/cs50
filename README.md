@@ -20,3 +20,5 @@
   - [Week 7 - Regular Expressions](cs50p/Week%2007/)
   - [Week 8 - Object-Oriented Programming](cs50p/Week%2008/)
   - [Week 9 - Et Cetera](cs50p/Week%2009/)
+- [CS50’s Introduction to Databases with SQL](cs50sql/)
+  - [Week 0 - Querying](cs50sql/Week%2000/)
