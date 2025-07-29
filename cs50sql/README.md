@@ -10,3 +10,4 @@
   - [Cyberchase](Week%2000/cyberchase/)
   - [36 Views](Week%2000/views/)
   - [Normals](Week%2000/normals/)
+  - [Players](Week%2000/players/)
