@@ -11,3 +11,8 @@
   - [36 Views](Week%2000/views/)
   - [Normals](Week%2000/normals/)
   - [Players](Week%2000/players/)
+
+### Week 1 - Relating
+
+- Problem Set
+  - [Packages, Please](Week%2001/packages/)
