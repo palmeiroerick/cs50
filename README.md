@@ -22,3 +22,4 @@
   - [Week 9 - Et Cetera](cs50p/Week%2009/)
 - [CS50’s Introduction to Databases with SQL](cs50sql/)
   - [Week 0 - Querying](cs50sql/Week%2000/)
+  - [Week 1 - Relating](cs50sql/Week%2001/)
