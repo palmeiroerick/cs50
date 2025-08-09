@@ -17,3 +17,4 @@
 - Problem Set
   - [Packages, Please](Week%2001/packages/)
   - [DESE](Week%2001/dese/)
+  - [Moneyball](Week%2001/moneyball/)
