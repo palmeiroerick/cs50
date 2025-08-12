@@ -18,3 +18,8 @@
   - [Packages, Please](Week%2001/packages/)
   - [DESE](Week%2001/dese/)
   - [Moneyball](Week%2001/moneyball/)
+
+### Week 2 - Designing
+
+- Problem Set
+  - [ATL](Week%2002/atl/schema.sql)
