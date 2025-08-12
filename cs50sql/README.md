@@ -23,3 +23,4 @@
 
 - Problem Set
   - [ATL](Week%2002/atl/schema.sql)
+  - [Happy to Connect](Week%2002/connect/schema.sql)
