@@ -24,3 +24,4 @@
   - [Week 0 - Querying](cs50sql/Week%2000/)
   - [Week 1 - Relating](cs50sql/Week%2001/)
   - [Week 2 - Designing](cs50sql/Week%2002/)
+  - [Week 3 - Writing](cs50sql/Week%2003/)
