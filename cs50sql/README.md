@@ -38,3 +38,4 @@
 - Problem Set
   - [Census Taker](Week%2004/census/)
   - [The Private Eye](Week%2004/private/private.sql)
+  - [Bed and Breakfast](Week%2004/bnb/)
