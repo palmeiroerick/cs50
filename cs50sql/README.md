@@ -31,3 +31,9 @@
 - Problem Set
   - [Don’t Panic!](Week%2003/dont-panic/hack.sql)
   - [Meteorite Cleaning](Week%2003/meteorites/import.sql)
+
+
+### Week 4 - Viewing
+
+- Problem Set
+  - [Census Taker](Week%2004/census/)
