@@ -44,3 +44,8 @@
 - Problem Set
   - [In a Snap](Week%2005/snap/)
   - [your.harvard](Week%2005/harvard/indexes.sql)
+
+### Week 6 - Scaling
+
+- Problem Set
+  - [Happy to Connect (Sentimental)](Week%2006/sentimental-connect/schema.sql)

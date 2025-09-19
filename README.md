@@ -27,3 +27,4 @@
   - [Week 3 - Writing](cs50sql/Week%2003/)
   - [Week 4 - Viewing](cs50sql/Week%2004/)
   - [Week 5 - Optimizing](cs50sql/Week%2005/)
+  - [Week 6 - Scaling](cs50sql/Week%2006/)
