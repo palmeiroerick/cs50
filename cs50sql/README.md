@@ -50,3 +50,4 @@
 - Problem Set
   - [Happy to Connect (Sentimental)](Week%2006/sentimental-connect/schema.sql)
   - [From the Deep](Week%2006/deep/answers.md)
+  - [Don’t Panic! (Sentimental) with Python](Week%2006/dont-panic-python/hack.py)
