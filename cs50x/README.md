@@ -78,3 +78,8 @@
   - [Jar](Week%2006/jar/jar.py)
   - [Seven Day Average](Week%2006/seven-day-average/seven-day-average.py)
   - [Taqueria](Week%2006/taqueria/taqueria.py)
+
+### Week 7 - SQL
+
+- Problem Set
+  - [Songs](Week%2007/songs/)

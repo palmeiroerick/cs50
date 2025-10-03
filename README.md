@@ -9,6 +9,7 @@
   - [Week 4 - Memory](cs50x/Week%2004/)
   - [Week 5 - Data Structure](cs50x/Week%2005/)
   - [Week 6 - Python](cs50x/Week%2006/)
+  - [Week 7 - SQL](cs50x/Week%2007/)
 - [CS50’s Introduction to Programming with Python](cs50p/)
   - [Week 0 - Functions, Variables](cs50p/Week%2000/)
   - [Week 1 - Conditionals](cs50p/Week%2001/)

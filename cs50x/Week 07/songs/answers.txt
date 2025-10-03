@@ -1,0 +1,11 @@
+When analyzing the two most prominent moods of the user based on their top songs of the year, we can use average energy, valence, and danceability to categorize their audio aura.
+
+- Enegy describes excitement or chilliness
+- Valence describes happiness or sadness
+- Danceability describes how suitable a track is for dancing
+
+High energy and high valence characterizes positivity and lively moods, while low energy and low valence characterizes melancholic.
+
+Analyzing only the 100 most played songs in a year may not represent the user's musical taste over time, since it can change over the years.
+
+To obtain a more meaningful result over time, it is best to analyze longer time intervals, seeking to analyze the tendency rather than seasonal changes.
