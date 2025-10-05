@@ -87,3 +87,4 @@
   - [Fiftyville](Week%2007/fiftyville/log.sql)
 - Additional Practice
   - [Favorites](Week%2007/favorites/favorites.sql)
+  - [Hall of Prophecy](Week%2007/prophecy/)
