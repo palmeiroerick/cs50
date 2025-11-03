@@ -2,6 +2,8 @@
 
 - <https://cs50.harvard.edu/sql>
 
+<img width="2112" height="1632" alt="image" src="https://github.com/user-attachments/assets/5a7f5a85-eb92-4132-abd8-0c5b8b90a05d" />
+
 ## Table of Contents
 
 ### Week 0 - Querying
